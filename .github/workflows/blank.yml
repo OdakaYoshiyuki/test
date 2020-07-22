@@ -34,4 +34,4 @@ jobs:
 	type nul > odaka.txt
 
     build_script: 
-    - tset.bat
+    - test.bat

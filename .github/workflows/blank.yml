@@ -32,3 +32,6 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
 	type nul > odaka.txt
+
+    build_script: 
+    - tset.bat
